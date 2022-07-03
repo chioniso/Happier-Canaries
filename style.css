@@ -15,6 +15,14 @@ html, body {
   background-color: #A0D5DD;
   padding: 5px;
   width: 100%;
+display: inline-block;
+}
+
+.banner-button {
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    display: inline-block;
 }
 
 p, h1, h2, h3, h4, h5, h6, a {
