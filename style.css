@@ -65,6 +65,7 @@ a:hover {
 }
 
 .landing-page-text {
+    
 }
 
 h1 {
@@ -81,11 +82,15 @@ input {
     display: block;
     margin: 15px;
     padding: 3px;
+    background-color: #A0D5DD;
+    color: #1E3F20;
 }
 
 button {
     margin: 15px;
     padding: 3px;
+    background-color: #A0D5DD;
+    color: #1E3F20;
 }
 
 .learn-with-amy {
